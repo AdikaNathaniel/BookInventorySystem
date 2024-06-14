@@ -1,0 +1,11 @@
+C:\Users\ACER\Desktop\BLAZORWEBASSEMBLY\BlazorAppIdentityDotNet8\BlazorWebAssemblyDotNet.Shared\bin\Debug\net8.0\BlazorWebAssemblyDotNet.Shared.deps.json
+C:\Users\ACER\Desktop\BLAZORWEBASSEMBLY\BlazorAppIdentityDotNet8\BlazorWebAssemblyDotNet.Shared\bin\Debug\net8.0\BlazorWebAssemblyDotNet.Shared.dll
+C:\Users\ACER\Desktop\BLAZORWEBASSEMBLY\BlazorAppIdentityDotNet8\BlazorWebAssemblyDotNet.Shared\bin\Debug\net8.0\BlazorWebAssemblyDotNet.Shared.pdb
+C:\Users\ACER\Desktop\BLAZORWEBASSEMBLY\BlazorAppIdentityDotNet8\BlazorWebAssemblyDotNet.Shared\obj\Debug\net8.0\BlazorWebAssemblyDotNet.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\BLAZORWEBASSEMBLY\BlazorAppIdentityDotNet8\BlazorWebAssemblyDotNet.Shared\obj\Debug\net8.0\BlazorWebAssemblyDotNet.Shared.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\BLAZORWEBASSEMBLY\BlazorAppIdentityDotNet8\BlazorWebAssemblyDotNet.Shared\obj\Debug\net8.0\BlazorWebAssemblyDotNet.Shared.AssemblyInfo.cs
+C:\Users\ACER\Desktop\BLAZORWEBASSEMBLY\BlazorAppIdentityDotNet8\BlazorWebAssemblyDotNet.Shared\obj\Debug\net8.0\BlazorWebAssemblyDotNet.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\BLAZORWEBASSEMBLY\BlazorAppIdentityDotNet8\BlazorWebAssemblyDotNet.Shared\obj\Debug\net8.0\BlazorWebAssemblyDotNet.Shared.dll
+C:\Users\ACER\Desktop\BLAZORWEBASSEMBLY\BlazorAppIdentityDotNet8\BlazorWebAssemblyDotNet.Shared\obj\Debug\net8.0\refint\BlazorWebAssemblyDotNet.Shared.dll
+C:\Users\ACER\Desktop\BLAZORWEBASSEMBLY\BlazorAppIdentityDotNet8\BlazorWebAssemblyDotNet.Shared\obj\Debug\net8.0\BlazorWebAssemblyDotNet.Shared.pdb
+C:\Users\ACER\Desktop\BLAZORWEBASSEMBLY\BlazorAppIdentityDotNet8\BlazorWebAssemblyDotNet.Shared\obj\Debug\net8.0\ref\BlazorWebAssemblyDotNet.Shared.dll
